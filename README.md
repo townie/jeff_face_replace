@@ -15,6 +15,6 @@ TODO:
 
 
 From
-![alt text](https://github.com/townie/jeff_face_replacer/blob/master/imgs/mntrush.jpg?raw=true)
+![alt text](https://github.com/townie/jeff_face_replacer/blob/main/imgs/mntrush.jpg?raw=true)
 to
-![alt text](https://github.com/townie/jeff_face_replacer/blob/master/imgs/mntrush_fin.jpg?raw=true)
+![alt text](https://github.com/townie/jeff_face_replacer/blob/main/imgs/mntrush_fin.jpg?raw=true)
